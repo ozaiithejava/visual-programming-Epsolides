@@ -1,0 +1,14 @@
+C:\Users\ozaii\RiderProjects\chapter3\chapter3\obj\Debug\net9.0\chapter3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozaii\RiderProjects\chapter3\chapter3\obj\Debug\net9.0\chapter3.AssemblyInfoInputs.cache
+C:\Users\ozaii\RiderProjects\chapter3\chapter3\obj\Debug\net9.0\chapter3.AssemblyInfo.cs
+C:\Users\ozaii\RiderProjects\chapter3\chapter3\obj\Debug\net9.0\chapter3.csproj.CoreCompileInputs.cache
+C:\Users\ozaii\RiderProjects\chapter3\chapter3\bin\Debug\net9.0\chapter3.exe
+C:\Users\ozaii\RiderProjects\chapter3\chapter3\bin\Debug\net9.0\chapter3.deps.json
+C:\Users\ozaii\RiderProjects\chapter3\chapter3\bin\Debug\net9.0\chapter3.runtimeconfig.json
+C:\Users\ozaii\RiderProjects\chapter3\chapter3\bin\Debug\net9.0\chapter3.dll
+C:\Users\ozaii\RiderProjects\chapter3\chapter3\bin\Debug\net9.0\chapter3.pdb
+C:\Users\ozaii\RiderProjects\chapter3\chapter3\obj\Debug\net9.0\chapter3.dll
+C:\Users\ozaii\RiderProjects\chapter3\chapter3\obj\Debug\net9.0\refint\chapter3.dll
+C:\Users\ozaii\RiderProjects\chapter3\chapter3\obj\Debug\net9.0\chapter3.pdb
+C:\Users\ozaii\RiderProjects\chapter3\chapter3\obj\Debug\net9.0\chapter3.genruntimeconfig.cache
+C:\Users\ozaii\RiderProjects\chapter3\chapter3\obj\Debug\net9.0\ref\chapter3.dll
