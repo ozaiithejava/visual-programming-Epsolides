@@ -1,0 +1,14 @@
+C:\Users\ozaii\RiderProjects\chapterOne\chapterOne\bin\Debug\net9.0-windows\chapterOne.exe
+C:\Users\ozaii\RiderProjects\chapterOne\chapterOne\bin\Debug\net9.0-windows\chapterOne.deps.json
+C:\Users\ozaii\RiderProjects\chapterOne\chapterOne\bin\Debug\net9.0-windows\chapterOne.runtimeconfig.json
+C:\Users\ozaii\RiderProjects\chapterOne\chapterOne\bin\Debug\net9.0-windows\chapterOne.dll
+C:\Users\ozaii\RiderProjects\chapterOne\chapterOne\bin\Debug\net9.0-windows\chapterOne.pdb
+C:\Users\ozaii\RiderProjects\chapterOne\chapterOne\obj\Debug\net9.0-windows\chapterOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozaii\RiderProjects\chapterOne\chapterOne\obj\Debug\net9.0-windows\chapterOne.AssemblyInfoInputs.cache
+C:\Users\ozaii\RiderProjects\chapterOne\chapterOne\obj\Debug\net9.0-windows\chapterOne.AssemblyInfo.cs
+C:\Users\ozaii\RiderProjects\chapterOne\chapterOne\obj\Debug\net9.0-windows\chapterOne.csproj.CoreCompileInputs.cache
+C:\Users\ozaii\RiderProjects\chapterOne\chapterOne\obj\Debug\net9.0-windows\chapterOne.dll
+C:\Users\ozaii\RiderProjects\chapterOne\chapterOne\obj\Debug\net9.0-windows\refint\chapterOne.dll
+C:\Users\ozaii\RiderProjects\chapterOne\chapterOne\obj\Debug\net9.0-windows\chapterOne.pdb
+C:\Users\ozaii\RiderProjects\chapterOne\chapterOne\obj\Debug\net9.0-windows\chapterOne.genruntimeconfig.cache
+C:\Users\ozaii\RiderProjects\chapterOne\chapterOne\obj\Debug\net9.0-windows\ref\chapterOne.dll
