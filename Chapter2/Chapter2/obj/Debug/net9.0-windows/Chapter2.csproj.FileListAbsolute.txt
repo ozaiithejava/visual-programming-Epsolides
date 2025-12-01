@@ -1,0 +1,14 @@
+C:\Users\ozaii\RiderProjects\Chapter2\Chapter2\bin\Debug\net9.0-windows\Chapter2.exe
+C:\Users\ozaii\RiderProjects\Chapter2\Chapter2\bin\Debug\net9.0-windows\Chapter2.deps.json
+C:\Users\ozaii\RiderProjects\Chapter2\Chapter2\bin\Debug\net9.0-windows\Chapter2.runtimeconfig.json
+C:\Users\ozaii\RiderProjects\Chapter2\Chapter2\bin\Debug\net9.0-windows\Chapter2.dll
+C:\Users\ozaii\RiderProjects\Chapter2\Chapter2\bin\Debug\net9.0-windows\Chapter2.pdb
+C:\Users\ozaii\RiderProjects\Chapter2\Chapter2\obj\Debug\net9.0-windows\Chapter2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ozaii\RiderProjects\Chapter2\Chapter2\obj\Debug\net9.0-windows\Chapter2.AssemblyInfoInputs.cache
+C:\Users\ozaii\RiderProjects\Chapter2\Chapter2\obj\Debug\net9.0-windows\Chapter2.AssemblyInfo.cs
+C:\Users\ozaii\RiderProjects\Chapter2\Chapter2\obj\Debug\net9.0-windows\Chapter2.csproj.CoreCompileInputs.cache
+C:\Users\ozaii\RiderProjects\Chapter2\Chapter2\obj\Debug\net9.0-windows\Chapter2.dll
+C:\Users\ozaii\RiderProjects\Chapter2\Chapter2\obj\Debug\net9.0-windows\refint\Chapter2.dll
+C:\Users\ozaii\RiderProjects\Chapter2\Chapter2\obj\Debug\net9.0-windows\Chapter2.pdb
+C:\Users\ozaii\RiderProjects\Chapter2\Chapter2\obj\Debug\net9.0-windows\Chapter2.genruntimeconfig.cache
+C:\Users\ozaii\RiderProjects\Chapter2\Chapter2\obj\Debug\net9.0-windows\ref\Chapter2.dll
